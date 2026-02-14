@@ -4,6 +4,9 @@ Apply ternary quantization to Stable Diffusion UNet for 15x compression
 - Use case: Mobile and edge deployment
 - Status: Research/Development
 
+## 📊 Results Summary
+See [RESULTS.md](RESULTS.md) for comprehensive proof of concept results and technical details.
+
 ## 🎉 Proof of Concept Results
 
 ### First Ternary Image Generated (v0.1.0)
