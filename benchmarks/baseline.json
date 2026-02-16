@@ -1,0 +1,17 @@
+{
+  "machine_info": {
+    "node": "github-actions",
+    "processor": "x86_64"
+  },
+  "commit_info": {
+    "id": "baseline",
+    "time": "2024-01-01T00:00:00+00:00",
+    "author_time": "2024-01-01T00:00:00+00:00",
+    "dirty": false,
+    "project": "ternary-sd",
+    "branch": "main"
+  },
+  "benchmarks": [],
+  "datetime": "2024-01-01T00:00:00.000000",
+  "version": "1.0.0"
+}
