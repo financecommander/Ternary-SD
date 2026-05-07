@@ -1,4 +1,11 @@
 # Ternary Stable Diffusion
+
+[![CI/CD Pipeline](https://github.com/financecommander/Ternary-SD/actions/workflows/ci.yml/badge.svg)](https://github.com/financecommander/Ternary-SD/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/financecommander/Ternary-SD/branch/main/graph/badge.svg)](https://codecov.io/gh/financecommander/Ternary-SD)
+[![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![PyTorch 2.0+](https://img.shields.io/badge/pytorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
 Apply ternary quantization to Stable Diffusion UNet for 15x compression
 - Target: 4GB → 300MB model size
 - Use case: Mobile and edge deployment
